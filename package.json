@@ -44,6 +44,6 @@
     "nedb-promises": "^5.0.2",
     "normalize-url": "^6.1.0",
     "signale": "^1.4.0",
-    "transliteration": "^2.2.0"
+    "transliteration": "^2.3.5"
   }
 }
